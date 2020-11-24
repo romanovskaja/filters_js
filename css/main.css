@@ -1,0 +1,45 @@
+.wr-filter {
+    margin-top: 250px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.active {
+    background-color: darkorchid;
+}
+
+.wr-filter button {
+    margin: 0 10px;
+}
+
+.wr-blocks {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wr-blocks .block {
+    width: 250px;
+    height: 250px;
+    font-size: 18px;
+    color: wheat;
+}
+
+.v1 {
+    background-color: red;
+}
+
+.v2 {
+    background-color: olivedrab;
+}
+
+.v3 {
+    background-color: coral;
+}
+
+.v4 {
+    background-color: darkblue;
+}
+
+.hide {
+    display: none;
+}
